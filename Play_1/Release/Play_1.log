@@ -1,0 +1,8 @@
+﻿  Main.cpp
+Main.cpp(203): warning C4473: “fscanf”: 没有为格式字符串传递足够的参数
+  Main.cpp(203): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  Main.cpp(203): note: 缺失的可变参数 1 为格式字符串“%s”所需
+  正在生成代码
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Play_1.vcxproj -> F:\Skill\C\项目\Play_1\Release\Play_1.exe
